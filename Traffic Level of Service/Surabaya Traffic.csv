@@ -1,0 +1,14 @@
+﻿_id,lokasi_sampling,kode_jalan,d_panjang,d_lebar,klas_jalan,klas_fungsi_jalan,klas_jaringan_jalan,kapasitas_mjki,vol_kendaraan,derajat_kejenuhan,kecepatan_rata_rata,level_of_service
+1,Jl. Manyar,"","","",kota,kolektor,sekunder,7997.184,5199.1618575228,0.65012407586506,43.37,C
+2,Jl. Nginden,"","","",kota,kolektor,sekunder,8330.4,6798.1028903983,0.81605959982693,43.19,D
+3,Jl. Banyu Urip,"","","",kota,arteri,sekunder,5553.6,4697.2960194379,0.84581100897399,43.2725,E
+4,Jl. Jemursari,"","","",kota,kolektor,sekunder,8330.4,6294.8120706072,0.75564343496197,43.795,D
+5,Jl. Panjang Jiwo,"","","",kota,kolektor,sekunder,8330.4,5845.8897674704,0.70175378943033,43.4825,C
+6,Jl. Jemur Andayani,"","","",kota,kolektor,primer,5553.6,3836.4029544149,0.69079569187823,43.255,C
+7,Jl. Kendangsari,"","","",kota,kolektor,sekunder,8330.4,6014.6123804655,0.72200763234245,44.33,C
+8,Jl. Rungkut Industri,"","","",kota,arteri,sekunder,5553.6,4216.1711611144,0.75917803967056,42.87,D
+9,Jl. Sukomanunggal,"","","",kota,arteri,sekunder,6664.32,5028.0068982382,0.75446660698138,43.975,D
+10,Jl. Tanjungsari,"","","",kota,arteri,primer,6386.64,5020.2885632579,0.78606099032636,42.43,D
+11,Jl. Margomulyo,"","","",kota,arteri,sekunder,8330.4,7307.8654357725,0.87725264522382,43.28,E
+12,Jl. Dupak,"","","",kota,arteri,primer,5775.744,5650.5655888509,0.97832687682329,41.84,E
+13,Jl. Demak,"","","",kota,arteri,sekunder,7663.968,6361.6290438436,0.83006988597077,42.845,D
